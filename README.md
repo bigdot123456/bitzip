@@ -1,0 +1,2 @@
+# bitzip
+Compress bitmap
